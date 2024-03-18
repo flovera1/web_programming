@@ -1,0 +1,6 @@
+@elvis_HostAddress = http://localhost:5072
+
+GET {{elvis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
